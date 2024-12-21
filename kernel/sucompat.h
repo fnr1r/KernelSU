@@ -1,0 +1,1 @@
+../../susfs4ksu/kernel_patches/KernelSU/kernel/sucompat.h
