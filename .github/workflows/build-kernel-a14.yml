@@ -1,7 +1,7 @@
 name: Build Kernel - Android 14
 on:
   push:
-    branches: ["main", "ci", "checkci"]
+    branches: ["main", "ci", "checkci", "v1.0.5-pixel"]
     paths:
       - ".github/workflows/build-kernel-a14.yml"
       - ".github/workflows/gki-kernel.yml"
